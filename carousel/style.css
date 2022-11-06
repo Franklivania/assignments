@@ -1,0 +1,50 @@
+@import url('https://fonts.cdnfonts.com/css/lora');
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:root{
+    --font-main: 'Lora', sans-serif;
+
+    --color-one: #000000;
+    --color-two: #ad0000;
+    --color-text: #FFFFFF;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide{
+    height: 35rem;
+    width: 80%;
+    margin: 0 0.5rem;
+    border: 0.04rem solid var(--color-one);
+    border-radius: 0.7rem;
+}
+
+.slide img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    transition
+}
+
+/* button{
+    position: absolute;
+} */
