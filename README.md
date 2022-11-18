@@ -6,7 +6,7 @@ All I4G&amp;Zuri assignments
 
 <p>This is the slide show for the places you can visit in Japan. I hope you enjoy!</p>
 
-<a href="https://replit.com/@Franklivania/Carousel?v=1" target="_blank">This is the link to the Live task on Replit</a>
+<a href="https://franklivania.github.io/carousel/" target="_blank">This is the link to the Live site</a>
 
 ![kyoto](https://user-images.githubusercontent.com/49784088/200775141-4b41a736-baac-4f16-ab3d-b1b2365e76da.jpg)
 ![nagano](https://user-images.githubusercontent.com/49784088/200775168-01a5dfa9-d2b9-4aea-8cb1-d75164f8b825.jpg)
